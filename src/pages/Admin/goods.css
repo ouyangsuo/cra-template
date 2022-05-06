@@ -1,0 +1,25 @@
+.tags {
+    padding: 5px 20px;
+}
+
+.price {
+    color: red;
+    font-size: 1.05rem;
+    font-weight: 500;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
+
+.goodsName {
+    color: #333;
+    font-size: 1rem;
+    font-weight: 450;
+}
+
+
+/* .ant-table-tbody>tr>td>a.goodsName {
+    margin-right: 200px;
+} */

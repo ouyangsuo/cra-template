@@ -1,0 +1,15 @@
+/ 首页 
+/login 登录页 
+ 
+/admin 管理首页
+    /admin/dashboard 数据看板 
+    /admin/users 用户管理 
+    /admin/channels 频道管理 
+    /admin/goods 商品管理 
+    /admin/hotwords 热词管理 
+    /admin/messages 通知中心
+
+/admin/goods/0 新增商品页
+/admin/goods/:gid 商品编辑页
+
+/* 404
